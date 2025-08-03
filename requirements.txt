@@ -2,3 +2,4 @@ streamlit
 transformers==4.30.0
 torch
 numpy
+pip==25.2
