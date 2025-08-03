@@ -17,7 +17,4 @@ A simple and effective Question Answering (QA) system built using Hugging Face's
 
 Clone the repository and install dependencies:
 
-```bash
-git clone https://github.com/your-username/bert-qa-agent.git
-cd bert-qa-agent
 pip install -r requirements.txt
