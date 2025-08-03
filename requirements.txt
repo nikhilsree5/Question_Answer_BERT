@@ -1,4 +1,4 @@
-pip==25.2
+pip>=23.0
 streamlit
 setuptools>=65.0
 wheel>=0.38.0
